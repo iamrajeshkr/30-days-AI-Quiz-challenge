@@ -138,7 +138,7 @@ if i > ind and arr[i] == arr[i - 1]:
   - **For the first element** at the current recursion level (`i == ind`), the condition is not applied—even if it’s a duplicate from a previous recursive call, it must be considered as a valid starting point.
   - **For subsequent elements** (`i > ind`), if `arr[i]` equals the previous candidate (`arr[i - 1]`), processing it would yield duplicate combinations. Thus, it’s skipped.
 
-This ensures that each unique candidate is only processed once per recursive level, preventing duplicate combinations while still considering valid possibilities.
+This ensures that each unique candidate is only processed once per recursive level, preventing duplicate combinations while still considering valid possibilities
 
 ---
 
