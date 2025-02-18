@@ -15,8 +15,8 @@ This document provides a detailed explanation of the `combinationSum2` algorithm
 
 ## Table of Contents
 
-1. [Algorithm Code](#algorithm-code)
-2. [Step-by-Step Execution Walkthrough](#step-by-step-execution-walkthrough)
+1. [Algorithm Code](#Algorithm Code)
+2. [Step-by-Step Execution Walkthrough](#Step-by-Step Execution Walkthrough)
     - [Initial Setup](#initial-setup)
     - [Recursive Calls and Variable Tables](#recursive-calls-and-variable-tables)
 3. [Understanding the For-Loop](#understanding-the-for-loop)
