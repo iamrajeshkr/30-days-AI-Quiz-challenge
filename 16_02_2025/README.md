@@ -1,7 +1,7 @@
 # Chatbot Application - README
 
 ## Overview
-This repository contains a chatbot application built using **Deepseek R1 1.5B**, the **Hugging Face API**, and **Replit**. The project explores the capabilities of AI-powered development tools and their potential in automating web application creation.
+This repository contains a chatbot application built using **Deepseek R1 1.5B**, the **Hugging Face API**, and **Replit**. The project explores the capabilities of AI-powered development tools and their potential in automating web application creation. 
 
 ## Features
 - **Multi-User Sign-In**: Supports multiple users logging in simultaneously.
