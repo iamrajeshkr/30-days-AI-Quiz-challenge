@@ -151,5 +151,5 @@
 Today's session covered:
 - **A comprehensive project narrative** for a Customer Propensity Model, including its goals, technical approach, challenges, and business impacts.
 - **Detailed insights into PySpark,** highlighting its core concepts, usage, and advantages for distributed data processing.
-- **An in-depth look at H2O AutoML,** emphasizing its automated approach to machine learning model development, key features, and practical usage.
+- **An in-depth look at H2O AutoML,** emphasizing its automated approach to machine learning model development, key features, practical usage.
 
