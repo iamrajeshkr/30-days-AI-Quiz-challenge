@@ -72,7 +72,7 @@
 ## 3. Deep Dive: H2O AutoML
 
 ### Introduction  
-- **H2O AutoML** is an automated machine learning framework that simplifies the process of model training, tuning, and selection. It is designed to help both beginners and experts quickly build high-performing models with minimal manual intervention.
+- **H2O AutoML** is an automated machine learning framework that simplifies the process of training, tuning, and selection. It is designed to help both beginners and experts quickly build high-performing models with minimal manual intervention.
 
 ### Key Features  
 - **Automated Model Training:** Simultaneously trains multiple algorithms (e.g., GLM, Random Forest, XGBoost, Deep Learning).
