@@ -1,5 +1,5 @@
 ## Interview Simulation for CNN-Lytical Project
-- Chatgpt Chat thread is provided herewith **PyTorch’s official documentation** on [CNN_INTRV](https://chatgpt.com/share/67bc7ca9-9ad0-8010-9696-020b2541bc15).  
+- Chatgpt Chat thread is provided herewith on [CNN_INTRV](https://chatgpt.com/share/67bc7ca9-9ad0-8010-9696-020b2541bc15).  
 
 ### **Interviewer:**  
 Rajesh, I see you’ve worked on CNN-based image classification and segmentation models. Let’s dive into some scenario-based questions to evaluate your understanding.
