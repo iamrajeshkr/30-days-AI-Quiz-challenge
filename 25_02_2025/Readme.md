@@ -1,6 +1,6 @@
 ### **Daily Learning Report: Understanding LSTMs for Time Series Prediction**  
-**Date**: [Insert Date]  
-**Author**: [Your Name]  
+**Date**: [25_02_2025]  
+**Author**: [Rajesh Kumar]  
 
 ---
 
