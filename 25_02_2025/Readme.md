@@ -5,7 +5,7 @@
 ---
 
 ### **1. Introduction**  
-Today’s focus was on understanding **Long Short-Term Memory (LSTM)** networks, a type of Recurrent Neural Network (RNN) designed to handle sequential data like stock prices, weather data, or text. Below is a summary of key concepts, diagrams, and takeaways.  
+Today’s focus was on understanding **Long Short-Term Memory (LSTM)** networks, a type of Recurrent Neural Network designed to handle sequential data like stock prices, weather data, or text. Below is a summary of key concepts, diagrams, and takeaways.  
 
 ---
 
